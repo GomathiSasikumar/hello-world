@@ -1,2 +1,3 @@
 # hello-world
-Just another repository
+
+Keen to learn coding everyday
